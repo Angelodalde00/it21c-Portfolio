@@ -15,6 +15,6 @@ public class Car {
         
     }
     void showCarModel(){
-        System.out.println(car_price + "Mahal pero mas mahala tika yiee <3 ");
+        System.out.println(car_price + "Mahal pero mas mahal tika yiee <3 ");
     }
 }
