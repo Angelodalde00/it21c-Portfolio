@@ -9,6 +9,6 @@ package awatawat;
  *
  * @author Admin
  */
-public class Main {
+class car_name {
     
 }

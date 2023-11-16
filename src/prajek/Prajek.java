@@ -1,21 +1,15 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package prajek;
 
-/**
- *
- * @author Admin
- */
+//Dalde gwapo nawog tao
+
 public class Prajek {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Car car_01 = new Car("Honda",120.99);
+        
+        car_01.showCarName();
+        car_01.showCarModel();
     }
     
 }
