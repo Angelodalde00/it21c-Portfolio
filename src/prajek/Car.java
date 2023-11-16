@@ -1,7 +1,7 @@
 
 package prajek;
 
-
+//DINAKO UY
 public class Car {
     String car_name;
     double car_price;
